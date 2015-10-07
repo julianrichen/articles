@@ -1,5 +1,6 @@
 # PHP - The Wonderful World of XML Parsers
-## Basic background, understanding, misconceptions & usage of XML parsers in PHP
+
+_Basic background, understanding, misconceptions & usage of XML parsers in PHP_
 
 **Published:**  2015/04/07 (April 7 2013)
 

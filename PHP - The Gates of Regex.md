@@ -1,5 +1,6 @@
 # PHP - The Gates of Regex
-## A quick guide to get you started in the perplexing world of regex
+
+_A quick guide to get you started in the perplexing world of regex_
 
 **Published:**  2013/05/25 (May 25 2013)
 

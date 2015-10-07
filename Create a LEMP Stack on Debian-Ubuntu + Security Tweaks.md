@@ -1,5 +1,6 @@
 # Create a LEMP Stack on Debian/Ubuntu + Security Tweaks
-## Setup a robust and powerful LEMP server tweaked for security.
+
+_Setup a robust and powerful LEMP server tweaked for security_
 
 **Published:**  2015/04/09 (April 9 2015)
 

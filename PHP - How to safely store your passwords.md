@@ -1,5 +1,6 @@
 # PHP - How to safely store your passwords
-## _Basic background, understanding, misconceptions & solutions to storing sensitive data in PHP_
+
+_Basic background, understanding, misconceptions & solutions to storing sensitive data in PHP_
 
 **Published:**  2012/05/22 (May 22 2012)
 

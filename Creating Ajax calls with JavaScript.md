@@ -1,5 +1,6 @@
 # Creating Ajax calls with JavaScript
-## A quick guide to create a simple ajax call in JavaScript. As well as an example of a fluent interfaces object.
+
+_A quick guide to create a simple ajax call in JavaScript. As well as an example of a fluent interfaces object_
 
 **Published:**  2013/12/06 (December 6 2013)
 
