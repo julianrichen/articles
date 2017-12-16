@@ -335,7 +335,7 @@ The basic idea here is we have a salt to hash our passwords but its different fo
 
 **Hard-Coded-Salt + Unique Salt + Hash**
 
-This setup really starts to increase are security. We have a hard-coded-salt in the hashing script, that then is hashed with a unique salt that then is hashed all together into the database. This now requires the user to breach the code and the database to retrieve the necessary information to start discovering the hashed passwords.
+This setup really starts to increase our security. We have a hard-coded-salt in the hashing script, that then is hashed with a unique salt that then is hashed all together into the database. This now requires the user to breach the code and the database to retrieve the necessary information to start discovering the hashed passwords.
 
 BUT! We can do better! In a perfect world you have something fairly similar to this:
 
